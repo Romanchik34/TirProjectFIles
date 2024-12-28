@@ -4,7 +4,8 @@
 		{
 			"name": "Input macros",
 			"min_size": 33792,
-			"max_size": 33792
+			"max_size": 33792,
+			"hash_list": ["c5a25b46b3a01f7cf03df15d4cef5374"]
 		}
 	]
 }
