@@ -1,1 +1,10 @@
-
+{
+	"manifest":
+	[
+		{
+			"name": "Input macros",
+			"min_size": 33792,
+			"max_size": 33792
+		}
+	]
+}
